@@ -1,3 +1,5 @@
+# DC28 DCZIA Build-your-own-badge challenge writeup
+
 In this Challenge we are provided with an image that's called Challenge.jpg and an encrypted 7z file called L00t.7z\
 There is also a Readme that states:
 >
