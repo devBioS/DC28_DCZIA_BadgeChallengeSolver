@@ -38,9 +38,9 @@ So we needed another approach.
 
 
 For barcodes it is not uncommon to have defined spaces and barwidths, we studied the following resources to learn more about the widths and types of barcodes:
-   * https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf
-   * https://www.barcodefaq.com/barcode-match/
-   * https://www.keyence.com/ss/products/auto_id/barcode_lecture/basic/mechanism/
+   * <a href="https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf" target="_blank">https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf</a>
+   * <a href="https://www.barcodefaq.com/barcode-match/" target="_blank">https://www.barcodefaq.com/barcode-match/</a>
+   * <a href="https://www.keyence.com/ss/products/auto_id/barcode_lecture/basic/mechanism/" target="_blank">https://www.keyence.com/ss/products/auto_id/barcode_lecture/basic/mechanism/</a>
 
 
 Reading through it it became clear that we can count the "units" of the barcode.
@@ -51,7 +51,7 @@ Basically the width of 20 became 1 unit and then you can divide the other to mak
 After that we tried again to convert these numbers to something useful but all attempts didn't yield anything but binary bogus.
 
 
-Some voice emerged: "Pain begins. NOW!" (https://www.youtube.com/watch?v=WJWmzbWas_Q&feature=youtu.be&t=150)
+Some voice emerged: "Pain begins. NOW!" (<a href="https://www.youtube.com/watch?v=WJWmzbWas_Q&feature=youtu.be&t=150" target="_blank">https://www.youtube.com/watch?v=WJWmzbWas_Q&feature=youtu.be&t=150</a>)
 
 
 We thought of a kind of cipher but due to lack of knowledge about a specific cipher we went stuck and reviewed the image again.\
